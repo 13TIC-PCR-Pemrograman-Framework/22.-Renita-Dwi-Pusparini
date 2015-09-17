@@ -1,2 +1,2 @@
 # 22.-Renita-Dwi-Pusparini
-Judul Project *silahkan diganti
+Judul Project : Sistem Manajemen Apotek
